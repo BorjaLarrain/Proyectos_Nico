@@ -1,0 +1,87 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_title": true,
+        "show_product_count": false,
+        "show_collection_description": true,
+        "collection_title_size": "h3",
+        "text_width": "wide",
+        "text_align": "text-center",
+        "text_position": "justify-center items-center",
+        "show_image": false,
+        "use_product_image": false,
+        "collection_image": "1.77",
+        "color_scheme": "default"
+      }
+    },
+    "1397b9be-c3b8-44bb-820c-f7cbdb19dac6": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "",
+        "layout": "grid",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "color_scheme": "none",
+        "card_contain": true,
+        "full_width": true
+      }
+    },
+    "collection-products": {
+      "type": "main-collection-products",
+      "settings": {
+        "products_per_page": 50,
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "show_layout_toggle": false,
+        "enable_filtering": true,
+        "filters_open_lg": true,
+        "stick_on_scroll": true,
+        "show_filter_counts": true,
+        "expand_filters": true,
+        "max_filter_options": 6,
+        "enable_sorting": true,
+        "show_feat_sort_opt": true,
+        "sort_first": true
+      }
+    },
+    "4b6a7754-e58b-4752-9013-e0998876b41e": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "",
+        "layout": "grid",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "color_scheme": "none",
+        "card_contain": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "1397b9be-c3b8-44bb-820c-f7cbdb19dac6",
+    "collection-products",
+    "4b6a7754-e58b-4752-9013-e0998876b41e"
+  ]
+}

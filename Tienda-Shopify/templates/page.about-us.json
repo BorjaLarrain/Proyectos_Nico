@@ -1,0 +1,230 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_size": "h2",
+        "heading_align": "text-center"
+      }
+    },
+    "rich_text_ELbe9B": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VrjHEU": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Quiénes somos?",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VrjHEU"
+      ],
+      "settings": {
+        "text_position": "justify-center",
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "media_with_text_b8GhJY": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_8YaHMR": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_YQEyxg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En <strong>JFV Medical</strong> nos especializamos en la importación y comercialización de insumos y<br/>equipamiento para hospitales y laboratorios. Atendemos instituciones de salud públicas y privadas a través de nuestras bodegas ubicadas en Antofagasta,<br/>Santiago, Castro y Coyhaique.</p><p>La representación y distribución de marcas y productos de reconocimiento mundial, han constituido a JFV Medical en una empresa líder en la comercialización de equipos<br/>y dispositivos médicos en Chile. </p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8YaHMR",
+        "text_YQEyxg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/time-to-get-to-work.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 53,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "image_banner_tpMLKM": {
+      "type": "image-banner",
+      "settings": {
+        "image_desktop": "shopify://shop_images/WEB-JFVMEDICAL-11.jpg",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 450,
+        "fixed_height_mobile": 500,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "icons_with_text_b3QwjC": {
+      "type": "icons-with-text",
+      "settings": {
+        "heading": "",
+        "heading_align": "text-center",
+        "icon_size": 24,
+        "title_type_scale": "extra_large",
+        "text_type_scale": "medium",
+        "icon_position": "above",
+        "mobile_stack": false,
+        "section_height": "xsmall",
+        "color_scheme": "1",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "multi_column_3Ee4a3": {
+      "type": "multi-column",
+      "blocks": {
+        "column_jyr6gn": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/WEB-JFVMEDICAL-12.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column_w6VU3H": {
+          "type": "column",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/WEB-JFVMEDICAL-13.jpg",
+            "media_scale": 100,
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jyr6gn",
+        "column_w6VU3H"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Principales Ejecutivos",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "small",
+        "column_align": "center",
+        "media_align": "text-center",
+        "image_ratio": "natural",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "media_with_text_iqDQ6d": {
+      "type": "media-with-text",
+      "blocks": {
+        "heading_qU4Cwe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Propuesta de valor:",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_jmezFw": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Precios competitivos: </strong>Al ser importadores directos, ofrecemos precios bajos, siempre asegurando la mejor relación calidad-precio.<br/><br/><strong>Atención personalizada:</strong> Nos destacamos por un servicio cercano y ágil. Nuestros socios están directamente involucrados con los clientes, brindando atención personalizada y disponibilidad 24/7.<br/><br/><strong>Entrega rápida a nivel nacional:</strong> Gracias a nuestras bodegas estratégicamente ubicadas en Santiago, Antofagasta y Coyhaique, podemos garantizar una entrega eficiente en cualquier parte de Chile, permitiéndonos responder de manera oportuna a las necesidades de nuestros clientes.</p><p><strong>Todo en un solo lugar:</strong> En JFV Medical podrás encontrar todo lo necesario para tu institución en un solo proveedor. Nuestro catálogo abarca desde material de laboratorio y toma de muestras, hasta test rápidos y elementos de protección personal.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qU4Cwe",
+        "text_jmezFw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Sin_titulo-2.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 43,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "multi_column_PRKFDA": {
+      "type": "multi-column",
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "large",
+        "column_align": "left",
+        "media_align": "text-center",
+        "image_ratio": "natural",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_ELbe9B",
+    "media_with_text_b8GhJY",
+    "image_banner_tpMLKM",
+    "icons_with_text_b3QwjC",
+    "multi_column_3Ee4a3",
+    "media_with_text_iqDQ6d",
+    "multi_column_PRKFDA"
+  ]
+}

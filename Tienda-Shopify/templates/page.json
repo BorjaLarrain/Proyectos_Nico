@@ -1,0 +1,45 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_t6G4pf": {
+      "type": "image-banner",
+      "settings": {
+        "image_desktop": "shopify://shop_images/JFV_MEDICAL_Recuperado_b1705136-0e62-4878-a439-2b4916900cfd.jpg",
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 480,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "transparent_content_color": "#ffffff",
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": true,
+        "heading_size": "h1",
+        "heading_align": "text-start"
+      }
+    }
+  },
+  "order": [
+    "image_banner_t6G4pf",
+    "main"
+  ]
+}

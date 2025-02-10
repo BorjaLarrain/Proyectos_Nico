@@ -1,0 +1,391 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1478797384865": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Ljtwdd": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify://shop_images/JFV_MEDICAL_Recuperado_8e465cd5-cb98-4b70-acdb-f9b3175dd70c.jpg",
+            "url": "",
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "Importadora de Insumos Médicos y Toma de Muestra",
+            "heading_size": "h3",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "transparent_content_color": "#ffffff",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "countdown_border_radius": 5,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "count_border_color": "",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_Ljtwdd"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 640,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_dots",
+        "pagination_color": "#ffffff",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": false,
+        "slider_pause": true,
+        "autoplay_speed": 8,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "collection_list_zkg8Mk": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_ecxgm7": {
+          "type": "collection",
+          "settings": {
+            "collection": "laboratorio"
+          }
+        },
+        "collection_hWYKFH": {
+          "type": "collection",
+          "settings": {
+            "collection": "test-rapidos"
+          }
+        },
+        "collection_FNDYmR": {
+          "type": "collection",
+          "settings": {
+            "collection": "toma-de-muestra"
+          }
+        },
+        "collection_cVTRxa": {
+          "type": "collection",
+          "settings": {
+            "collection": "elementos-de-proteccion-personal"
+          }
+        },
+        "collection_NiWaj3": {
+          "type": "collection",
+          "settings": {
+            "collection": "hospitalario"
+          }
+        },
+        "collection_hWFTFx": {
+          "type": "collection",
+          "settings": {
+            "collection": "veterinaria"
+          }
+        }
+      },
+      "block_order": [
+        "collection_ecxgm7",
+        "collection_hWYKFH",
+        "collection_FNDYmR",
+        "collection_cVTRxa",
+        "collection_NiWaj3",
+        "collection_hWFTFx"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Categorías destacadas",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "card_size": "small",
+        "use_product_image": false,
+        "circle_image": false,
+        "show_border": false,
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "1590506637124": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Productos destacados",
+        "heading_align": "text-center",
+        "show_view_all": true,
+        "collection": "destacados",
+        "layout": "carousel",
+        "card_size_mobile": "small",
+        "card_size": "small",
+        "products_to_show": 8,
+        "color_scheme": "none",
+        "card_contain": false,
+        "full_width": true
+      }
+    },
+    "media_with_text_DRYhYm": {
+      "type": "media-with-text",
+      "blocks": {
+        "subheading_JyEXwx": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_PFPd4k": {
+          "type": "heading",
+          "settings": {
+            "heading": "Somos parte de Convenio Marco",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_qPJLXD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Convenio Marco es una modalidad que permite la adquisición de bienes y servicios a través de un catálogo en línea, siendo la primera opción para los organismos públicos al realizar compras. JFV Medical ha obtenido esta adjudicación, lo que simplifica el proceso de compras públicas y le permite estar presente en el catálogo electrónico de ChileCompra Express, facilitando la oferta de sus productos a través de este medio.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_jrzeTM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver más",
+            "button_link": "shopify://pages/convenio-marco",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JyEXwx",
+        "heading_PFPd4k",
+        "text_qPJLXD",
+        "button_jrzeTM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/scientist-or-medical-in-lab-coat-working-in-biotechnology-lab.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "image_fit": "contain",
+        "media_width": 44,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "media_with_text_E3y7X6": {
+      "type": "media-with-text",
+      "blocks": {
+        "subheading_TMEbjp": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_Bk87HV": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "text_8ty8nq": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Axiom</strong> es una marca dedicada a ofrecer insumos médicos de alta calidad para laboratorios, hospitales y veterinarias en Chile. Todos nuestros productos cuentan con certificación CE, garantizando su seguridad y eficacia. Comprometidos con la innovación y el cuidado de la salud, trabajamos para facilitar la labor de los profesionales del sector y contribuir a un entorno médico más seguro.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_QknhUE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver productos",
+            "button_link": "shopify://collections/axiom",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_TMEbjp",
+        "heading_Bk87HV",
+        "text_8ty8nq",
+        "button_QknhUE"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/JFV_MEDICAL_Recuperado_d92ea641-1903-42f0-8fd0-38976f1a4028.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "image_fit": "contain",
+        "media_width": 41,
+        "media_scale": 100,
+        "text_align": "text-start",
+        "color_scheme": "none",
+        "only_content_color_scheme": false
+      }
+    },
+    "096c8774-3bf7-4565-a9f9-4620039792f0": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_z7UEGQ": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Axiom.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "d40a566f-c13c-4357-86cf-2d66d2dd9728": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Acon_d8cc3367-f167-4c41-9d68-4caf985e320b.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "75198be9-5cea-4cea-9024-7924439ec882": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Nipro.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_BiYkFT": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Logos-JFV_Medical-06.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "b1e4454a-6bb1-45ef-8564-49050e0dcb0f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/All_test_749e67b5-143d-4860-8029-82834f5bb8de.png",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_wAF9CX": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Logos-JFV_Medical-03.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_ze3fyW": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Logos-JFV_Medical_Mesa_de_trabajo_1.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_GW6DR4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Logos-JFV_Medical-04.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_xeG63q": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Logos-JFV_Medical-05.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        },
+        "logo_YB7GkV": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Logos-JFV_Medical-02.jpg",
+            "url": "",
+            "logo_width": 120,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_z7UEGQ",
+        "d40a566f-c13c-4357-86cf-2d66d2dd9728",
+        "75198be9-5cea-4cea-9024-7924439ec882",
+        "logo_BiYkFT",
+        "b1e4454a-6bb1-45ef-8564-49050e0dcb0f",
+        "logo_wAF9CX",
+        "logo_ze3fyW",
+        "logo_GW6DR4",
+        "logo_xeG63q",
+        "logo_YB7GkV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Nuestras Alianzas",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "spacing": 40,
+        "logo_grid_align": "justify-center",
+        "image_opacity": 100,
+        "color_scheme": "1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "1478797384865",
+    "collection_list_zkg8Mk",
+    "1590506637124",
+    "media_with_text_DRYhYm",
+    "media_with_text_E3y7X6",
+    "096c8774-3bf7-4565-a9f9-4620039792f0"
+  ]
+}
